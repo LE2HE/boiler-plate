@@ -19,7 +19,7 @@ mongoose.connect(process.env.MONGO_URL, {
 .catch(err => console.log(err))
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello World! 안녕하세요.')
 })
 
 app.get('/register', (req, res) => {
