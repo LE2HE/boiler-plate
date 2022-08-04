@@ -202,3 +202,6 @@ package-lock.json
 
 #.env 제외
 .env
+
+# dev.js 제외
+dev.js
