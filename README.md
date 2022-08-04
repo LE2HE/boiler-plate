@@ -1,1 +1,1 @@
-# bolier-plate
+# boiler-plate
